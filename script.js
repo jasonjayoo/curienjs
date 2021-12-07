@@ -7,4 +7,4 @@ $("#factButton").on("click", function() {
 })
 
 // This array holds all of our Curien facts!
-var curienFacts = ["Located in San Pedro California", "Shipping Policy: Will ship within 1 business day if item(s) are in stock", "Your Tech Guru: Joshua Carton", "Refund Policy: 90 day refund on all items (excluding food items)"]
+var curienFacts = ["Located in San Pedro California","Tech Support : Support@Curienllc.com", "Shipping Policy: Will ship within 1 business day if item(s) are in stock", "Your Tech Guru: Joshua Carton", "Refund Policy: 90 day refund on all items (excluding food items)"]
